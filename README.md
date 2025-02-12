@@ -1,2 +1,2 @@
 # Rustcoin
-What do I know about Crypto and Production?
+Would you like coins on a rusty Blockchain?
